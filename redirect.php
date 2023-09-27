@@ -2,10 +2,10 @@
 // AVVIO LA SESSIONE
 session_start();
 
-if (!empty($_SESSION['password'])) {
-    header('Location: ./index.php');
+// if (!empty($_SESSION['password'])) {
+//     header('Location: ./index.php');
 
-}
+// }
 
 
 ?>
